@@ -1,9 +1,9 @@
 # PARSING_JSON
 
-Nama : Mohammad Azmi Abdussyukur 
-NIM : 312210109
-Kelas : TI.22.A.1
-Mata Kuliah : Pemrograman Mobile 2
+### Nama : Mohammad Azmi Abdussyukur 
+### NIM : 312210109
+### Kelas : TI.22.A.1
+### Mata Kuliah : Pemrograman Mobile 2
 
 ## Tugas
 
